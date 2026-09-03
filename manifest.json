@@ -804,6 +804,16 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/R2API.DirectorAPI.Helpers.InteractableNames.yml",
       "output": {
         ".html": {
@@ -2028,6 +2038,16 @@
       "output": {
         ".html": {
           "relative_path": "api/R2API.RulesPlugin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/R2API.RunCombatDirectorsFixedUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/R2API.RunCombatDirectorsFixedUpdate.html"
         }
       },
       "version": ""

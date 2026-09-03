@@ -5855,6 +5855,18 @@ references:
   isSpec: "True"
   fullName: R2API.DirectorAPI.DirectorCardHolder.ThrowIfInvalid
   nameWithType: DirectorAPI.DirectorCardHolder.ThrowIfInvalid
+- uid: R2API.DirectorAPI.GetCombatDirectorActivityCount
+  name: GetCombatDirectorActivityCount
+  href: api/R2API.DirectorAPI.html#R2API_DirectorAPI_GetCombatDirectorActivityCount
+  commentId: E:R2API.DirectorAPI.GetCombatDirectorActivityCount
+  fullName: R2API.DirectorAPI.GetCombatDirectorActivityCount
+  nameWithType: DirectorAPI.GetCombatDirectorActivityCount
+- uid: R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate
+  name: DirectorAPI.GetCombatDirectorActivityCountDelegate
+  href: api/R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate.html
+  commentId: T:R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate
+  fullName: R2API.DirectorAPI.GetCombatDirectorActivityCountDelegate
+  nameWithType: DirectorAPI.GetCombatDirectorActivityCountDelegate
 - uid: R2API.DirectorAPI.GetStageEnumFromSceneDef(RoR2.SceneDef)
   name: GetStageEnumFromSceneDef(SceneDef)
   href: api/R2API.DirectorAPI.html#R2API_DirectorAPI_GetStageEnumFromSceneDef_RoR2_SceneDef_
@@ -7868,6 +7880,19 @@ references:
   commentId: F:R2API.DirectorAPI.InteractableCategory.VoidStuff
   fullName: R2API.DirectorAPI.InteractableCategory.VoidStuff
   nameWithType: DirectorAPI.InteractableCategory.VoidStuff
+- uid: R2API.DirectorAPI.IsStageCombatDirector(RoR2.CombatDirector)
+  name: IsStageCombatDirector(CombatDirector)
+  href: api/R2API.DirectorAPI.html#R2API_DirectorAPI_IsStageCombatDirector_RoR2_CombatDirector_
+  commentId: M:R2API.DirectorAPI.IsStageCombatDirector(RoR2.CombatDirector)
+  fullName: R2API.DirectorAPI.IsStageCombatDirector(RoR2.CombatDirector)
+  nameWithType: DirectorAPI.IsStageCombatDirector(CombatDirector)
+- uid: R2API.DirectorAPI.IsStageCombatDirector*
+  name: IsStageCombatDirector
+  href: api/R2API.DirectorAPI.html#R2API_DirectorAPI_IsStageCombatDirector_
+  commentId: Overload:R2API.DirectorAPI.IsStageCombatDirector
+  isSpec: "True"
+  fullName: R2API.DirectorAPI.IsStageCombatDirector
+  nameWithType: DirectorAPI.IsStageCombatDirector
 - uid: R2API.DirectorAPI.Loaded
   name: Loaded
   href: api/R2API.DirectorAPI.html#R2API_DirectorAPI_Loaded
@@ -14185,6 +14210,44 @@ references:
   commentId: T:R2API.RulesPlugin
   fullName: R2API.RulesPlugin
   nameWithType: RulesPlugin
+- uid: R2API.RunCombatDirectorsFixedUpdate
+  name: RunCombatDirectorsFixedUpdate
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html
+  commentId: T:R2API.RunCombatDirectorsFixedUpdate
+  fullName: R2API.RunCombatDirectorsFixedUpdate
+  nameWithType: RunCombatDirectorsFixedUpdate
+- uid: R2API.RunCombatDirectorsFixedUpdate.Awake
+  name: Awake()
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html#R2API_RunCombatDirectorsFixedUpdate_Awake
+  commentId: M:R2API.RunCombatDirectorsFixedUpdate.Awake
+  fullName: R2API.RunCombatDirectorsFixedUpdate.Awake()
+  nameWithType: RunCombatDirectorsFixedUpdate.Awake()
+- uid: R2API.RunCombatDirectorsFixedUpdate.Awake*
+  name: Awake
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html#R2API_RunCombatDirectorsFixedUpdate_Awake_
+  commentId: Overload:R2API.RunCombatDirectorsFixedUpdate.Awake
+  isSpec: "True"
+  fullName: R2API.RunCombatDirectorsFixedUpdate.Awake
+  nameWithType: RunCombatDirectorsFixedUpdate.Awake
+- uid: R2API.RunCombatDirectorsFixedUpdate.FixedUpdate
+  name: FixedUpdate()
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html#R2API_RunCombatDirectorsFixedUpdate_FixedUpdate
+  commentId: M:R2API.RunCombatDirectorsFixedUpdate.FixedUpdate
+  fullName: R2API.RunCombatDirectorsFixedUpdate.FixedUpdate()
+  nameWithType: RunCombatDirectorsFixedUpdate.FixedUpdate()
+- uid: R2API.RunCombatDirectorsFixedUpdate.FixedUpdate*
+  name: FixedUpdate
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html#R2API_RunCombatDirectorsFixedUpdate_FixedUpdate_
+  commentId: Overload:R2API.RunCombatDirectorsFixedUpdate.FixedUpdate
+  isSpec: "True"
+  fullName: R2API.RunCombatDirectorsFixedUpdate.FixedUpdate
+  nameWithType: RunCombatDirectorsFixedUpdate.FixedUpdate
+- uid: R2API.RunCombatDirectorsFixedUpdate.combatDirectors
+  name: combatDirectors
+  href: api/R2API.RunCombatDirectorsFixedUpdate.html#R2API_RunCombatDirectorsFixedUpdate_combatDirectors
+  commentId: F:R2API.RunCombatDirectorsFixedUpdate.combatDirectors
+  fullName: R2API.RunCombatDirectorsFixedUpdate.combatDirectors
+  nameWithType: RunCombatDirectorsFixedUpdate.combatDirectors
 - uid: R2API.SceneAssetAPI
   name: SceneAssetAPI
   href: api/R2API.SceneAssetAPI.html
